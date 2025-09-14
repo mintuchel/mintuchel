@@ -1,16 +1,13 @@
-## Hi there 👋
+## mintuchel
 
-<!--
-**mintuchel/mintuchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+- Sejong University Software Department (2020.03 ~ )
 
-Here are some ideas to get you started:
+### Career
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- En# 24st
+- (전) 에코아이티 플랫폼개발팀 인턴
+- TaxCanvas Software Engineer (AI서버 유지보수)
+
+### Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mintuchel)](https://solved.ac/mintuchel/)
