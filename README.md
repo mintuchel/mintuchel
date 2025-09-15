@@ -1,7 +1,3 @@
-## mintuchel
-
-Interested in Software Architecture and Design
-
 ### Education
 - Department of Software Engineering, Sejong Univ (2020 ~ )
 
@@ -36,5 +32,4 @@ Interested in Software Architecture and Design
 
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mintuchel)](https://solved.ac/mintuchel/)
-
 ![Solved.ac Hits](http://mazandi.herokuapp.com/api?handle=mintuchel&theme=warm)
