@@ -24,12 +24,12 @@
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=green)](https://github.com/langchain-ai/langchain)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
-### Communication
+<!-- ### Communication
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
-[![Redmine](https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)](https://www.redmine.org)
+[![Redmine](https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)](https://www.redmine.org) -->
 
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mintuchel)](https://solved.ac/mintuchel/)
-![Solved.ac Hits](http://mazandi.herokuapp.com/api?handle=mintuchel&theme=warm)
+[![Solved.ac Hits](http://mazandi.herokuapp.com/api?handle=mintuchel&theme=warm)](https://www.acmicpc.net/user/mintuchel)
