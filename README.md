@@ -3,10 +3,10 @@
 
 ### Career
 
-- En# 24th
-- Platform Development Team Intern @ EchoInternational
-- Software Engineer @ Taxcanvas
-- Software Maestro 17th
+- Software Maestro 17th (2026.03 ~ )
+- Software Engineer @ Taxcanvas (2025.09 ~ 2026.02)
+- Platform Development Team Intern @ EchoInternational (2025.03 ~ 2025.06)
+- En# 24th (2024.03 ~ )
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
