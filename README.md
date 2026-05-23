@@ -7,7 +7,7 @@
 
 - Software Maestro 17th (2026.04 ~ )
 - AI Engineer @ Taxcanvas (2025.09 ~ 2026.02)
-- Software Engineer - Platform Development Team Intern @ EchoInternational (2025.03 ~ 2025.06)
+- Platform Development Team Intern @ EchoInternational (2025.03 ~ 2025.06)
 - En# 24th (2024.03 ~ )
 
 ### Languages
