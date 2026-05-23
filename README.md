@@ -3,7 +3,7 @@
 
 ### Career
 
-- Software Maestro 17th (2026.03 ~ )
+- Software Maestro 17th (2026.04 ~ )
 - Software Engineer @ Taxcanvas (2025.09 ~ 2026.02)
 - Platform Development Team Intern @ EchoInternational (2025.03 ~ 2025.06)
 - En# 24th (2024.03 ~ )
@@ -17,13 +17,14 @@
 
 ### Frameworks
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Currently Wired In
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)](https://langgraph.ai)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=green)](https://github.com/langchain-ai/langchain)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=green)](https://www.langchain.com)
+[![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)](https://www.langchain.com/langgraph)
+[![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mintuchel)](https://solved.ac/mintuchel/)
-[![Solved.ac Hits](http://mazandi.herokuapp.com/api?handle=mintuchel&theme=warm)](https://www.acmicpc.net/user/mintuchel)
